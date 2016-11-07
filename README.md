@@ -4,6 +4,9 @@ Phone Validity
 - This is a simple JS program to check if user entered a valid phone number
 - LINK: http://gaganjotkaurkang.com/js-checkphone.php
 
+JS events
+- This implements simple events and browser object model
+- LINK: http://gaganjotkaurkang.com/js-checkmouseevent.php
 Story-Telling
 - This program generates random stories as outputs after taking inputs from users using the random Math function
 - LINK: http://gaganjotkaurkang.com/storytellingform.html
