@@ -8,3 +8,6 @@
 - This program implements a form using JQuery Mobile and generates the filled form by interacting with PHP back-end
 - LINK:  http://gaganjotkaurkang.com/Backend/JQUERY_LAB02.html
 
+# JQuery Double Range Slider
+- This program is an implementation of double range slider in JQuery
+- LINK: http://www.gaganjotkaurkang.com/JqueryDoubleRangeSlider.html
