@@ -4,11 +4,11 @@ Phone Validity
 - This is a simple JS program to check if user entered a valid phone number
 - LINK: http://gaganjotkaurkang.com/js-checkphone.php
 
-Story-Telling.js
+Story-Telling
 - This program generates random stories as outputs after taking inputs from users using the random Math function
 - LINK: http://gaganjotkaurkang.com/storytellingform.html
 
-JQuery.html
+JQuery
 - This implements JQuery to route to multiple pages
 - LINK: http://gaganjotkaurkang.com/JQUERYLAB.html
 
